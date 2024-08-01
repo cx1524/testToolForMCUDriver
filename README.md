@@ -1,2 +1,2 @@
 # testToolForMCUDriver
-one test tool for mcu driver
+一个MCU驱动库的测试工具
